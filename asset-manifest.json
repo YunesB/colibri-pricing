@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/YunesB/colibri-pricing/static/css/main.54cd11e8.chunk.css",
+    "main.js": "/YunesB/colibri-pricing/static/js/main.8af3881f.chunk.js",
+    "main.js.map": "/YunesB/colibri-pricing/static/js/main.8af3881f.chunk.js.map",
+    "runtime-main.js": "/YunesB/colibri-pricing/static/js/runtime-main.3b03f104.js",
+    "runtime-main.js.map": "/YunesB/colibri-pricing/static/js/runtime-main.3b03f104.js.map",
+    "static/js/2.4b41d786.chunk.js": "/YunesB/colibri-pricing/static/js/2.4b41d786.chunk.js",
+    "static/js/2.4b41d786.chunk.js.map": "/YunesB/colibri-pricing/static/js/2.4b41d786.chunk.js.map",
+    "static/js/3.afeb57de.chunk.js": "/YunesB/colibri-pricing/static/js/3.afeb57de.chunk.js",
+    "static/js/3.afeb57de.chunk.js.map": "/YunesB/colibri-pricing/static/js/3.afeb57de.chunk.js.map",
+    "index.html": "/YunesB/colibri-pricing/index.html",
+    "static/css/main.54cd11e8.chunk.css.map": "/YunesB/colibri-pricing/static/css/main.54cd11e8.chunk.css.map",
+    "static/js/2.4b41d786.chunk.js.LICENSE.txt": "/YunesB/colibri-pricing/static/js/2.4b41d786.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/YunesB/colibri-pricing/static/media/logo.4f6b0b5c.png",
+    "static/media/logo_triangle.bcf5ad1c.png": "/YunesB/colibri-pricing/static/media/logo_triangle.bcf5ad1c.png",
+    "static/media/logo_with_outline.f607e947.png": "/YunesB/colibri-pricing/static/media/logo_with_outline.f607e947.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b03f104.js",
+    "static/js/2.4b41d786.chunk.js",
+    "static/css/main.54cd11e8.chunk.css",
+    "static/js/main.8af3881f.chunk.js"
+  ]
+}
