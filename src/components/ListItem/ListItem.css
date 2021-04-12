@@ -1,0 +1,40 @@
+.price-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b0e7eb;
+  padding: 0 15px;
+  transition: 0.2s;
+  margin: 10px 0;
+  border-radius: 5px;
+  color: black;
+}
+
+.price-item:nth-of-type(2n) {
+  background-color: #a779b6;
+  color: white;
+}
+
+.price-item:hover {
+  opacity: 0.7;
+}
+
+.price-item_heading {
+  background-color: unset;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.price-item_heading:hover {
+  opacity: 1;
+}
+
+.price-item__name {
+  font-size: 15px;
+}
+
+.price-item__sum {
+  font-size: 15px;
+  margin-left: 20px;
+  text-align: right;
+}
