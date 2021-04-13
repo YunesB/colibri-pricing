@@ -16,7 +16,13 @@
 }
 
 .price-item:hover {
-  opacity: 0.7;
+  margin-left: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.price-item:first-of-type:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+  margin-left: 0;
 }
 
 .price-item_heading {
@@ -37,4 +43,14 @@
   font-size: 15px;
   margin-left: 20px;
   text-align: right;
+}
+
+@media screen and (max-width: 800px) {
+  .price-item:hover {
+    margin-left: 0;
+  }
+
+  .price-item:first-of-type:hover {
+    margin-left: 0;
+  }
 }

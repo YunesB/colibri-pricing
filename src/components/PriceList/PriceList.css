@@ -1,3 +1,17 @@
+.price-list {
+  margin: 0;
+  width: 100%;
+}
+
+.price-list__heading {
+  width: fit-content;
+  font-size: 20px;
+  margin: 15px 0 2px 15px;
+  border-bottom: 1px solid #55d7e0;
+  color: #55d7e0;
+  transition: 0.2s;
+}
+
 .prices {
   padding: 0;
   width: 100%;

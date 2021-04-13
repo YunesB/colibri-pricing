@@ -35,14 +35,15 @@
 
 .header__burger-button {
   position: absolute;
-  width: 22px;
-  height: 22px;
+  width: 25px;
+  height: 25px;
   top: 29px;
   right: 29px;
   background-image: url("../../images/svg/burger.svg");
   background-position: center;
   background-color: unset;
   background-repeat: no-repeat;
+  background-size: contain;
   padding: 0;
   border: none;
   transition: 0.2s;
