@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/colibri-pricing/static/css/main.b54e695d.chunk.css",
-    "main.js": "/colibri-pricing/static/js/main.5931cfe6.chunk.js",
-    "main.js.map": "/colibri-pricing/static/js/main.5931cfe6.chunk.js.map",
+    "main.css": "/colibri-pricing/static/css/main.66f31d38.chunk.css",
+    "main.js": "/colibri-pricing/static/js/main.e4becde8.chunk.js",
+    "main.js.map": "/colibri-pricing/static/js/main.e4becde8.chunk.js.map",
     "runtime-main.js": "/colibri-pricing/static/js/runtime-main.3725216a.js",
     "runtime-main.js.map": "/colibri-pricing/static/js/runtime-main.3725216a.js.map",
     "static/js/2.f75a2532.chunk.js": "/colibri-pricing/static/js/2.f75a2532.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.afeb57de.chunk.js": "/colibri-pricing/static/js/3.afeb57de.chunk.js",
     "static/js/3.afeb57de.chunk.js.map": "/colibri-pricing/static/js/3.afeb57de.chunk.js.map",
     "index.html": "/colibri-pricing/index.html",
-    "static/css/main.b54e695d.chunk.css.map": "/colibri-pricing/static/css/main.b54e695d.chunk.css.map",
+    "static/css/main.66f31d38.chunk.css.map": "/colibri-pricing/static/css/main.66f31d38.chunk.css.map",
     "static/js/2.f75a2532.chunk.js.LICENSE.txt": "/colibri-pricing/static/js/2.f75a2532.chunk.js.LICENSE.txt",
     "static/media/index.css": "/colibri-pricing/static/media/logo.4f6b0b5c.png",
     "static/media/logo_triangle.bcf5ad1c.png": "/colibri-pricing/static/media/logo_triangle.bcf5ad1c.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3725216a.js",
     "static/js/2.f75a2532.chunk.js",
-    "static/css/main.b54e695d.chunk.css",
-    "static/js/main.5931cfe6.chunk.js"
+    "static/css/main.66f31d38.chunk.css",
+    "static/js/main.e4becde8.chunk.js"
   ]
 }
