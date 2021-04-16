@@ -18,11 +18,11 @@ function Header() {
       <div className="header__container">
         <NavLink to="/therapy" className="header__link hvr-bounce-to-bottom" 
           activeClassName="hvr-bounce-to-bottom"
-          >Терапевтическая стоматология
+          >Терапия
         </NavLink>
         <NavLink to="/surgery" className="header__link hvr-bounce-to-bottom" 
           activeClassName="hvr-bounce-to-bottom"
-          >Хирургическая стоматология
+          >Хирургия
         </NavLink>
         <NavLink to="/orthopedics" className="header__link hvr-bounce-to-bottom" 
           activeClassName="hvr-bounce-to-bottom"
