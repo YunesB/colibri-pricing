@@ -35,8 +35,11 @@ function App() {
               heading="Ортодонтия"
             />
           </Route>
-          <Route path="*">
+          <Route exact path="/">
             <Redirect to="/therapy" />
+          </Route>
+          <Route path="*">
+            <Redirect to="/" />
           </Route>
         </Switch>
         <Footer />
